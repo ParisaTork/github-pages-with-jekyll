@@ -1,5 +1,5 @@
 ---
-title: "A-TITLE"
+title: "A TITLE"
 date: 2019-02-22
 ---
 layout: post
